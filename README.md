@@ -15,3 +15,5 @@ It's working... set my laptop to the DNS of pi-hole
 Set my router interface to the DNS of pi-hole 
 
 All done!
+
+I think my next tinker will be a wireguard tunnel for my PIA account...
