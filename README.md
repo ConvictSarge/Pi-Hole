@@ -1,9 +1,15 @@
-# Pi-Hole
+<h1>Pi-Hole</h1>
 
+
+<h2>Description</h2>
 Pi-Hole as virtual machine inside of Proxmox - In Progress
 
-Ubuntu 22.04 lxc
-
+<h2>Steps Taken</h2>
+<p align="center">
+Ubuntu 22.04 lxc<br/>
+<img src="https://imgur.com/Me9bKCa.png" height="80%" width="80%" alt="Ubuntu lxc in Proxmox"/>
+<br/>
+<br/>
 Set ip to 192.168.0.2/24 in the LXC setings
 
 Immediatly ran update && upgrade
