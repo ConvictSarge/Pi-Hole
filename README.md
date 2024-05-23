@@ -12,6 +12,6 @@ Ran the wget command from pi-hole.net
 
 It's working... set my laptop to the DNS of pi-hole
 
-Set my router interface to the DNS of pi-hole with a backup resolver incase my proxmox server goes down
+Set my router interface to the DNS of pi-hole 
 
 All done!
